@@ -1,1 +1,2 @@
 # pythonku
+ini adalah komentar
